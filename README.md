@@ -4,7 +4,7 @@ A hybrid renewable energy system combining **solar panels** and a **Vertical Axi
 
 ---
 
-## 📸 Project Preview
+## Project Preview
 ![Project Image](images/model.jpg)
 
 ---
@@ -90,5 +90,5 @@ RV College of Engineering (RVCE)
 
 ##  Links
 
--  Portfolio: (add your website link)  
--  Project Repo: (this repo link)
+-  Portfolio: [](https://abhinavrach.github.io/)
+-  Project Repo:[](https://github.com/abhinavrach/Hybrid-Solar-Wind-Energy-generator)
