@@ -2,13 +2,6 @@
 
 A hybrid renewable energy system combining **solar panels** and a **Vertical Axis Wind Turbine (VAWT)** using a **Darrieus + Savonius** design for efficient power generation in roadside environments.
 
----
-
-## Project Preview
-![Project Image](images/model.jpg)
-
----
-
 ##  Concept
 
 This system integrates two renewable sources:
